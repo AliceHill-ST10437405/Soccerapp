@@ -43,6 +43,8 @@ class MainActivity : AppCompatActivity() {
 
 
             // add all the teams to the display string
+            // add display
+
             var teamsDisplay = ""
             var counter = 0
             while (counter < 5) {
